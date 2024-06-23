@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="![Sergio Pinilla](https://github.com/SergioPinilla04/SergioPinilla04/assets/113448338/a8246a54-2c14-4c3e-b0c9-f8442aa83125)
+  <img height="200" src="https://github.com/SergioPinilla04/SergioPinilla04/assets/113448338/a8246a54-2c14-4c3e-b0c9-f8442aa83125
 "  />
 </div>
 
